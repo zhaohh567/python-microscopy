@@ -104,7 +104,7 @@ def main():
 
 
     (options, args) = parser.parse_args()
-    
+    #sdsdsds
     # continue to support loading scripts from the PYMEAcquire/Scripts directory
     legacy_scripts_dir = os.path.join(os.path.dirname(__file__), 'Scripts')
     
